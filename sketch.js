@@ -1,4 +1,4 @@
-var a;
+var a; 
 var circles=[];
 function setup() {
   createCanvas(800,800);
